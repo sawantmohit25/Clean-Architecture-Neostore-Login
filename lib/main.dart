@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:clean_neostore_login_app/injection_container.dart'as di;
 
-void main() {
+void main() async{
+  await di.init();
   runApp(MyApp());
 }
 

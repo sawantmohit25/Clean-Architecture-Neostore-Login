@@ -1,0 +1,16 @@
+{
+  "status": 200,
+  "data": {
+    "first_name": "Mandar",
+    "last_name": "Khandagale",
+    "email": "mandarkhandagale08@gmail.com",
+    "profile_pic": "http://staging.php-dev.in:8844/trainingapp/uploads/prof_img/thumb/medium/605d8a714230a.jpg",
+    "gender": "M",
+    "phone_no": "8692933498",
+    "dob": "08-10-1998",
+    "access_token": "6034f93060f34"
+  },
+  "message": "User login is successful.",
+  "user_msg": "Logged In successfully"
+
+}

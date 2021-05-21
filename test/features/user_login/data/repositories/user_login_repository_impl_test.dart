@@ -1,6 +1,6 @@
 import 'package:clean_neostore_login_app/core/error/exceptions.dart';
 import 'package:clean_neostore_login_app/core/error/failures.dart';
-import 'package:clean_neostore_login_app/core/platform/network_info.dart';
+import 'package:clean_neostore_login_app/core/network/network_info.dart';
 import 'package:clean_neostore_login_app/features/user_login/data/datasources/user_login_local_data_source.dart';
 import 'package:clean_neostore_login_app/features/user_login/data/datasources/user_login_remote_data_source.dart';
 import 'package:clean_neostore_login_app/features/user_login/data/models/user_login_model.dart';
